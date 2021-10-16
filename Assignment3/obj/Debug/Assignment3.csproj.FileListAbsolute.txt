@@ -1,0 +1,7 @@
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\bin\Debug\Assignment3.exe.config
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\bin\Debug\Assignment3.exe
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\bin\Debug\Assignment3.pdb
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\obj\Debug\Assignment3.exe
+D:\Repository\CSharp\GitRepo\Assignment3-IOT1030\Assignment3\obj\Debug\Assignment3.pdb
